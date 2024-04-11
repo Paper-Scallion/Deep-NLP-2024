@@ -1,0 +1,5 @@
+jieba==0.42.1
+OpenCC==1.1.7
+matplotlib==3.8.4
+pyceres==2.1
+numpy==1.26.4
