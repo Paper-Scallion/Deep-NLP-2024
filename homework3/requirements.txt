@@ -1,0 +1,6 @@
+numpy
+gensim
+scikit-learn
+mittens
+jieba
+OpenCC
