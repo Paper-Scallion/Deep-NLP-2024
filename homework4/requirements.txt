@@ -1,0 +1,7 @@
+numpy
+jieba
+OpenCC
+transformers
+torch
+gensim
+tqdm
